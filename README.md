@@ -31,7 +31,7 @@ Entre os principais tópicos abordados:
 
 ## 📂 Estrutura do Projeto
 
-java-algorithms-practice/
+java_algorithms_practice/
 │
 ├── src/
 │ ├── main/
